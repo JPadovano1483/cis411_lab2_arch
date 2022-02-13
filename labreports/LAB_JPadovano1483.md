@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Jamie Padovano
-**GitHub Handle:** JPadovano1483 
-**Repository:** https://github.com/JPadovano1483/cis411_lab2_arch 
+**Name:** Your Name  
+**GitHub Handle:** Your GitHub Handle  
+**Repository:** Your Forked Repository  
 **Collaborators:** 
 ___
 
