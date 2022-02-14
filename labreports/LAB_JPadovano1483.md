@@ -38,13 +38,15 @@ Serve Central is a a moblie application that will allow the user to easily find 
 
 | Model | View | Controller |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Service event is listed in the application's database | Nearby service event list | Tells view to display service event info |
+| Login credentials checked | Login Page | Tells view to change based on login attempt success |
+| New user sign up| Account sign up page | Tells view to change based on new account creation |
+| User volunteer history data | Home page | Tells view to display user data |
+| Organization information | Organization Page | Tells view to display organization information |
 
 ## Step 2.3 Diagram a Use Case in Architectural Terms
-INSERT IMAGE HERE with a Description.
+This diagram demonstrates the interaction between the user from the use case and the set of MVC where the user creates an account.
+![UseCase-MVC Diagram](../assets/UseCaseMVC.svg)
 
 # Step 3: Enhancing an Architecture
 
@@ -56,6 +58,3 @@ INSERT IMAGE HERE with a Description.
 
 # Step 4: Scaling an Architecture
 INSERT Architectural change proposal here, and how it meets the four new requirements.  Explain both the benefits and draw backs of your proposal.  If the changes are significant, then you need to explain why the changes are necessary versus a nice-to-have enhancement.
-
-# Extra Credit
-If you opt to do extra credit, then include it here.
